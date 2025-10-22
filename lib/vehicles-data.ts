@@ -4,6 +4,13 @@ export const vehiclesData = [
     model: "SUV Híbrido Premium",
     slug: "h6-supreme",
     image: "/h6-hev-celeste.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_4-jGh3nWYgffAtCxVfFQVzBKbQAHf0LU.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_5-7cJvGxXp0Vu1BhXtYL1OrleNjQ7VHB.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_6-jJcWzFG1vuxNgNTlL9pSf3ZheRyWOP.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_2-nAw1Nr5xrjGDC9PBQcLURh7eDo9ayZ.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_3-5IejjhVnWxf644944ZwWZWRAxHZ2ms.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "1.5T + Motor Eléctrico",
@@ -56,6 +63,13 @@ export const vehiclesData = [
     model: "SUV Mediano",
     slug: "h6-deluxe",
     image: "/h6-hev-celeste-deluxe.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_4-jGh3nWYgffAtCxVfFQVzBKbQAHf0LU.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_5-7cJvGxXp0Vu1BhXtYL1OrleNjQ7VHB.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_6-jJcWzFG1vuxNgNTlL9pSf3ZheRyWOP.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_2-nAw1Nr5xrjGDC9PBQcLURh7eDo9ayZ.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6_galeria_3-5IejjhVnWxf644944ZwWZWRAxHZ2ms.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "2.0L Turbo",
@@ -164,6 +178,13 @@ export const vehiclesData = [
     model: "SUV Compacto Premium",
     slug: "jolion-supreme",
     image: "/jolion-azul.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_5-OvnMooVpbguArsPFp9uC5ai3T3xfEl.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_4-VcvLxQRk7XQmjw27wxRFYikdHFuwVO.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_6-TX1scvdUkWQvQ1ATmJ3Hw1V8IAXRWJ.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_2-QAho7TOAYzKDGuMtB9PnoVekkd40VV.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_1-s1YGW1DzVvsMCcprXtPTxRsMr9NJGj.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "1.5L Turbo",
@@ -208,6 +229,13 @@ export const vehiclesData = [
     model: "SUV Compacto",
     slug: "jolion-deluxe",
     image: "/jolion-azul-deluxe.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_5-OvnMooVpbguArsPFp9uC5ai3T3xfEl.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_4-VcvLxQRk7XQmjw27wxRFYikdHFuwVO.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_6-TX1scvdUkWQvQ1ATmJ3Hw1V8IAXRWJ.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_2-QAho7TOAYzKDGuMtB9PnoVekkd40VV.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Jolion_galeria_1-s1YGW1DzVvsMCcprXtPTxRsMr9NJGj.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "1.5L Turbo",
@@ -252,6 +280,14 @@ export const vehiclesData = [
     model: "SUV Eléctrico",
     slug: "ora-3",
     image: "/ora-3-beige.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_6-XTZpkvM6x6he9f4Ue1SvGTPVLZt7xj.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_4-PtBd1k8CmA9wxxxBpkuJuA2QZvJ3qs.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_1-oQ7VFVJw2Z3dlm40w3lcRScpIn1AaZ.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_3-BvtpdVnTt8BieUeqMIpsYvHbZgBNq4.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_2-ODesBvSYFrJ9Z42rUpFIesJRplLCdz.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ora_galeria_5-UPMBkv6CdnWu4frqgHMUsplHSjYmp0.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "100% Eléctrico",
@@ -304,6 +340,13 @@ export const vehiclesData = [
     model: "SUV Deportivo",
     slug: "h6-gt",
     image: "/h6-gt-azul-oscuro.jpg",
+    gallery: [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%A4%96%E6%8B%8D%E5%9B%BEPhotographic-picture-9-scaled-ueV3d9NmkzaAvIVuCILWba1OWWbnBF.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Taillight-Light-up-Ysow9EgXlgTwZw2nUER39K6tQ9GoQC.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Skylightopen-bVyrpSlvdmFHvjnpE3gdJJTU2lwZb5.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/h6gt-interior-bZTcBtA7jg1MXCURuiEvgY8cgWSby6.webp",
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WheelOptional-Michelin-Tires-scaled-VWKZpdcIVlQC70hSOCkuVh6B5en5KB.webp",
+    ],
     price: "Consultar",
     features: {
       engine: "2.0L Turbo",
